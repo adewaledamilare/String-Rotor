@@ -15,7 +15,9 @@ stringEffect example;
 
 example(“Microsoft”);
 
-In the above code the output would be “tMicrosof” which shows the last two 
+In the above code the output would be “tMicrosof” which shows the last 
 
 
-characters of the string “Microsoft” rotated to the left of the string.
+character 't' of the string “Microsoft” has been rotated to the left of the string.
+
+This keeps going on and on until the last character has been rotated.
